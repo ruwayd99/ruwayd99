@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ruwayd!</h1>
 <h3 align="center">Computer engineering student at UBC (w/ Coop).</h3>
 
-- 🔭 I’m currently working as [Residence Advisor](https://vancouver.housing.ubc.ca/residence-life/meet-the-team/)
+- 🔭 I’m currently working as a Residence Advisor at [UBC Student Housing](https://vancouver.housing.ubc.ca/residence-life/meet-the-team/)
 
 - 🔭 A project I am working on is **creating a tutoring website**
 

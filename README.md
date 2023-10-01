@@ -7,6 +7,10 @@
 
 - 🌱 I’m currently learning **deep learning models (using PyTorch)**
 
+- 🚀 Working in the software team for [UBC Rocket](https://www.ubcrocket.com/), contributing to our [groundstation](https://github.com/UBC-Rocket/UBCRocketGroundStation)
+
+- 💻 Worked on the [safewalk mobile application](https://github.com/UBCSmartCity/UBC-Safewalk-App) for [UBC SmartCity](https://ubcsmartcity.com/)
+
 - 🛠️ Languages: **Python, Java, C, C++, SQL, HTML, CSS, JavaScript**
 
 - 🛠️ Frameworks & Databases: **React.js, Node.js, Express.js, Flask, Gridfs, MongoDB, MySQL, Azure SQL**

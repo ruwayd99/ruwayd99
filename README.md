@@ -5,7 +5,7 @@
 
 - 🔭 A project I am working on is **creating a tutoring website**
 
-- 🌱 I’m currently learning **deep learning models (using PyTorch)**
+- 🌱 I’m currently learning **java*** for my software construction course and **verilog** for my computer systems course
 
 - 🚀 Working in the software team for [UBC Rocket](https://www.ubcrocket.com/), contributing to our [groundstation](https://github.com/UBC-Rocket/UBCRocketGroundStation)
 

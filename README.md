@@ -1,21 +1,27 @@
 <h1 align="center">Hi 👋, I'm Ruwayd!</h1>
 <h3 align="center">Computer engineering student at UBC (w/ Coop).</h3>
 
+- 🎖️ Recipient of the [UBC Hugh M.Brock Presidential Scholarship **$40,000**](https://students.ubc.ca/enrolment/finances/award-search/vancouver/non-academic-units/awards-financial-services/4677/) and [RCAF Foundation Scholarship](https://rcaffoundation.ca/portfolio-items/2022-student-scholarship-recipients/) 
+
 - 🔭 I’m currently working as a Residence Advisor at [UBC Student Housing](https://vancouver.housing.ubc.ca/residence-life/meet-the-team/)
 
-- 🔭 A project I am working on is **creating a tutoring website**
+- 🔭 Some personal projects I am working on are **implementing a 2-way superscalar pipelined processor for my RISC machine**, **python scripts for webscraping** and a **file sharing website**.
 
-- 🌱 I’m currently learning **java** for my software construction course and **verilog** for my computer systems course
+- 🌱 I have just learnt **java** for my software construction course and **Verilog and ARM** for my computer systems course. I also worked with **FPGA** and **digital design** for that course.
+
+- 🌱 I am currently learning formal verification and UVM with a focus on contrained random verification.  
 
 - 🚀 Working in the software team for [UBC Rocket](https://www.ubcrocket.com/), contributing to our [groundstation](https://github.com/UBC-Rocket/UBCRocketGroundStation)
 
 - 💻 Worked on the [safewalk mobile application](https://github.com/UBCSmartCity/UBC-Safewalk-App) for [UBC SmartCity](https://ubcsmartcity.com/)
 
-- 🛠️ Languages: **Python, Java, C, C++, SQL, HTML, CSS, JavaScript**
+- 🛠️ Languages: **Python, Java, Verilog, SystemVerilog, ARM, C, C++, SQL, HTML, CSS, JavaScript**
 
-- 🛠️ Frameworks & Databases: **React.js, Node.js, Express.js, Flask, Gridfs, MongoDB, MySQL, Azure SQL**
+- 🛠️ Frameworks & Databases: **React.js, Node.js, Express.js, Flask, MongoDB, SQLite, MySQL, Azure SQL**
 
-- 🛠️ Softwares & Tools: **SolidWorks, Arduino, Git, Figma, VS Code, PyCharm, IntelliJ**
+- 🛠️ Softwares & Tools: **ModelSim, Quartus, FPGA, DE1-SoC Board, SolidWorks, Arduino, Raspberry Pi, PyCharm, IntelliJ, Git**
+  
+- 🛠️ Lab Equipment: **Oscilloscope, Function generator, Multimeters, Basic Circuit Tools**
 
 - 📫 How to reach me **ruwaydafeef99@gmail.com**
 

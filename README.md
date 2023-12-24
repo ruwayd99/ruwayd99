@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ruwayd!</h1>
 <h3 align="center">Computer engineering student at UBC (w/ Coop).</h3>
 
-- 🎖️ Recipient of the [UBC Hugh M. Brock Presidential Scholarship](https://students.ubc.ca/enrolment/finances/award-search/vancouver/non-academic-units/awards-financial-services/4677/) <span style="color: #ff0000;">$40,000</span> and [RCAF Foundation Scholarship](https://rcaffoundation.ca/portfolio-items/2022-student-scholarship-recipients/)
+- 🎖️ Recipient of the [UBC Hugh M. Brock Presidential Scholarship](https://students.ubc.ca/enrolment/finances/award-search/vancouver/non-academic-units/awards-financial-services/4677/) **$40,000** and [RCAF Foundation Scholarship](https://rcaffoundation.ca/portfolio-items/2022-student-scholarship-recipients/)
 
 - 🔭 I’m currently working as a Residence Advisor at [UBC Student Housing](https://vancouver.housing.ubc.ca/residence-life/meet-the-team/)
 
@@ -12,6 +12,8 @@
 - 🌱 I am currently learning formal verification and UVM with a focus on contrained random verification.  
 
 - 🚀 Working in the software team for [UBC Rocket](https://www.ubcrocket.com/), contributing to our [groundstation](https://github.com/UBC-Rocket/UBCRocketGroundStation)
+
+- 💻 Working in the hardware integration team for [UBC SmartCity](https://ubcsmartcity.com/), contributing to the [park smart application](https://github.com/UBCSmartCity/ParkSmart). Currently working on a feature that utilizes Raspberry Pi Pico to collect live sensor data and display it in our application.
 
 - 💻 Worked on the [safewalk mobile application](https://github.com/UBCSmartCity/UBC-Safewalk-App) for [UBC SmartCity](https://ubcsmartcity.com/)
 
@@ -31,6 +33,36 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/mir-ruwayd-afeef/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mir-ruwayd-afeef/" height="30" width="40" /></a>
 </p>
+
+## Personal Projects
+
+### RISC Machine (Code access is available upon request)
+- **Languages and tools:** Verilog, SystemVerilog, ModelSim, Quartus, FPGA, DE1-SoC Board
+- Implemented a Turing Complete 16-bit RISC machine using System Verilog on an FPGA board.
+- Subdivided machine into smaller modules such as ALU, controller, datapath, RAM to debug easily.
+- Verified component and integration through RTL and gate level simulation using ModelSim and Quartus.
+
+### [Formal verification for 4-bit counter with overflow](https://github.com/ruwayd99/FormalVerification_for_Counter)
+- **Languages and tools:** Verilog, SystemVerilog, Yosys
+- Independently studied formal verification techniques, implementing assertions and defining a constraint environment for testing a 4-bit counter with overflow.
+- Utilized the RTL synthesis tool Yosys to execute the testbench.
+
+### [Web Scraping Python Script](https://github.com/ruwayd99/WebScraping_PythonScript)
+- **Languages and tools:** Python, Beautifulsoup, SQLite, Matplotlib, csv
+- Extracted product title and prices from Amazon using Beautifulsoup, fetching links from a CSV.
+- Efficiently managed data by leveraging a relational database in SQLite and plotted price history using Matplotlib.
+
+### Multi-client Server (Code access is available upon request)
+- **Languages, tools, and concepts:** Java, Multi-threading, Sockets, IntelliJ
+- Built a server for concurrent client interactions capable of fetching sensor data and sending actuator commands.
+- Implemented thread-safe data types, synchronized methods, and leveraged Java sockets to handle clients.
+
+### [File Sharing Website](https://github.com/ruwayd99/TutoringWebsite_Frontend)
+- **Languages and tools:** React.js, Flask, MongoDB, GridFS, HTML, CSS (Bootstrap), JavaScript, Figma
+- Developed a full-stack React web application to facilitate streamlined document sharing between users.
+- Constructed a Flask back-end API for efficient handling of file uploads and deletions in MongoDB using GridFS.
+
+
 
 <!--
 **ruwayd99/ruwayd99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

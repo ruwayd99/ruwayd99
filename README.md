@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ruwayd!</h1>
 <h3 align="center">Computer engineering student at UBC (w/ Coop).</h3>
 
-- 🎖️ Recipient of the [UBC Hugh M.Brock Presidential Scholarship](https://students.ubc.ca/enrolment/finances/award-search/vancouver/non-academic-units/awards-financial-services/4677/) **$40,000** and [RCAF Foundation Scholarship](https://rcaffoundation.ca/portfolio-items/2022-student-scholarship-recipients/) 
+- 🎖️ Recipient of the [UBC Hugh M.Brock Presidential Scholarship](https://students.ubc.ca/enrolment/finances/award-search/vancouver/non-academic-units/awards-financial-services/4677/) `$40,000` and [RCAF Foundation Scholarship](https://rcaffoundation.ca/portfolio-items/2022-student-scholarship-recipients/) 
 
 - 🔭 I’m currently working as a Residence Advisor at [UBC Student Housing](https://vancouver.housing.ubc.ca/residence-life/meet-the-team/)
 

@@ -36,7 +36,7 @@
 
 ## Personal Projects
 
-### RISC Machine (Code access is available upon request)
+### [RISC Machine](https://github.com/ruwayd99/Reduced-Instruction-Set-Computer)
 - **Languages and tools:** Verilog, SystemVerilog, ModelSim, Quartus, FPGA, DE1-SoC Board
 - Implemented a Turing Complete 16-bit RISC machine using System Verilog on an FPGA board.
 - Subdivided machine into smaller modules such as ALU, controller, datapath, RAM to debug easily.

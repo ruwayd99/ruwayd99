@@ -62,7 +62,7 @@
 - Developed a full-stack React web application to facilitate streamlined document sharing between users
 - Constructed a Flask back-end API for efficient handling of file uploads and deletions in MongoDB using GridFS
 
-### [Simon Says](https://github.com/ruwayd99/SimonSays-Game-TinkerCAD)
+### [Simon Says Game](https://github.com/ruwayd99/SimonSays-Game-TinkerCAD)
 - **Languages and tools:** C, TinkerCad, Arduino
 - Developed an interactive Simon Says game in C using TinkerCad, implementing LED patterns that users replicate by pressing corresponding buttons
 - Utilized Arduino functionalities to control LEDs, detect button presses, and manage game logic, creating an engaging and challenging user experience

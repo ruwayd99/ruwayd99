@@ -38,31 +38,34 @@
 
 ### [RISC Machine](https://github.com/ruwayd99/Reduced-Instruction-Set-Computer)
 - **Languages and tools:** Verilog, SystemVerilog, ModelSim, Quartus, FPGA, DE1-SoC Board
-- Implemented a Turing Complete 16-bit RISC machine using System Verilog on an FPGA board.
-- Subdivided machine into smaller modules such as ALU, controller, datapath, RAM to debug easily.
-- Verified component and integration through RTL and gate level simulation using ModelSim and Quartus.
+- Implemented a Turing Complete 16-bit RISC machine using System Verilog on an FPGA board
+- Subdivided machine into smaller modules such as ALU, controller, datapath, RAM to debug easily
+- Verified component and integration through RTL and gate level simulation using ModelSim and Quartus
 
 ### [Formal verification for 4-bit counter with overflow](https://github.com/ruwayd99/FormalVerification_for_Counter)
 - **Languages and tools:** Verilog, SystemVerilog, Yosys
-- Independently studied formal verification techniques, implementing assertions and defining a constraint environment for testing a 4-bit counter with overflow.
-- Utilized the RTL synthesis tool Yosys to execute the testbench.
+- Independently studied formal verification techniques, implementing assertions and defining a constraint environment for testing a 4-bit counter with overflow
+- Utilized the RTL synthesis tool Yosys to execute the testbench
 
 ### [Web Scraping Python Script](https://github.com/ruwayd99/WebScraping_PythonScript)
 - **Languages and tools:** Python, Beautifulsoup, SQLite, Matplotlib, csv
-- Extracted product title and prices from Amazon using Beautifulsoup, fetching links from a CSV.
-- Efficiently managed data by leveraging a relational database in SQLite and plotted price history using Matplotlib.
+- Extracted product title and prices from Amazon using Beautifulsoup, fetching links from a CSV
+- Efficiently managed data by leveraging a relational database in SQLite and plotted price history using Matplotlib
 
 ### Multi-client Server (Code access is available upon request)
 - **Languages, tools, and concepts:** Java, Multi-threading, Sockets, IntelliJ
-- Built a server for concurrent client interactions capable of fetching sensor data and sending actuator commands.
-- Implemented thread-safe data types, synchronized methods, and leveraged Java sockets to handle clients.
+- Built a server for concurrent client interactions capable of fetching sensor data and sending actuator commands
+- Implemented thread-safe data types, synchronized methods, and leveraged Java sockets to handle clients
 
 ### [File Sharing Website](https://github.com/ruwayd99/TutoringWebsite_Frontend)
 - **Languages and tools:** React.js, Flask, MongoDB, GridFS, HTML, CSS (Bootstrap), JavaScript, Figma
-- Developed a full-stack React web application to facilitate streamlined document sharing between users.
-- Constructed a Flask back-end API for efficient handling of file uploads and deletions in MongoDB using GridFS.
+- Developed a full-stack React web application to facilitate streamlined document sharing between users
+- Constructed a Flask back-end API for efficient handling of file uploads and deletions in MongoDB using GridFS
 
-
+### [Simon Says](https://github.com/ruwayd99/SimonSays-Game-TinkerCAD)
+- **Languages and tools:** C, TinkerCad, Arduino
+- Developed an interactive Simon Says game in C using TinkerCad, implementing LED patterns that users replicate by pressing corresponding buttons
+- Utilized Arduino functionalities to control LEDs, detect button presses, and manage game logic, creating an engaging and challenging user experience
 
 <!--
 **ruwayd99/ruwayd99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

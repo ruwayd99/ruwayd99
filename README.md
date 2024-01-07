@@ -66,6 +66,9 @@
 - **Languages and tools:** Arduino, C++, Bluetooth Module, Live Camera Streaming, Object Manipulation
 - Programmed Arduino-controlled robot with C++, integrating Bluetooth module for remote control via Blynk IoT
 - Implemented features like object manipulation, navigation, live camera streaming, and sonar for movement detection
+- Utilized MG995 and MG996 medium servo motors to achieve precise and controlled movements, showcasing proficiency in kinematic design.
+- Designed and constructed a robust chassis using materials such as Styrofoam and plastic board, showcasing proficiency in mechanical structural design and assembly
+- Implemented four motors with L298N motor drivers for optimal wheel control, highlighting knowledge in motor driver configuration and robotic navigation.
 
 ### [Simon Says Game](https://github.com/ruwayd99/SimonSays-Game-TinkerCAD)
 - **Languages and tools:** C, TinkerCad, Arduino

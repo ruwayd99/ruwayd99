@@ -62,7 +62,7 @@
 - Developed a full-stack React web application to facilitate streamlined document sharing between users
 - Constructed a Flask back-end API for efficient handling of file uploads and deletions in MongoDB using GridFS
 
-### [SmartBot: Arduino Controlled Robot](https://drive.google.com/file/d/1AiMfbfdPu-Ufo2i7-Uf3s8SzfJ7lCihy/view?usp=sharing)
+### [SmartBot: Arduino Controlled Robot](https://github.com/ruwayd99/SmartBot-Arduino-controlled-robot)
 - **Languages and tools:** Arduino, C++, Bluetooth Module, Live Camera Streaming, Object Manipulation
 - Programmed Arduino-controlled robot with C++, integrating Bluetooth module for remote control via Blynk IoT
 - Implemented features like object manipulation, navigation, live camera streaming, and sonar for movement detection
